@@ -5,6 +5,7 @@
 # Node artifact files
 node_modules
 dist/
+build/
 
 # Package files
 *.jar
@@ -12,6 +13,7 @@ dist/
 # Maven
 target/
 dist/
+
 
 # JetBrains IDE
 .idea/
